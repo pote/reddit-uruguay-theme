@@ -47,9 +47,9 @@ a:hover {
 #header {
   margin-bottom: 0;
   padding-bottom: 34px;
-  background-color: #82B0EB;
   border-bottom: 1px solid #0038A8;
   box-shadow: 0 0 10px #DDD;
+  background: url(%%banner%%) no-repeat center 5px
 }
 
 #header-bottom-left {
